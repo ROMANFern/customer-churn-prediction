@@ -13,7 +13,7 @@ Predicting **customer churn** using machine learning to help businesses retain c
 
 ## **📊 Dataset**
 
-- **Source:** Telco Customer Churn Dataset
+- **Source:** [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Size:** 7,043 customers, 21 features
 - **Target Variable:** `Churn` (0 = No, 1 = Yes)
 
